@@ -1,40 +1,40 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
+    "name": "Pavel Sazonov",
+    "occupation": "Python Developer && ...coming soon ReactJs Developer",
     "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "image": "AVA_Pavel.jpg",
+    "bio": "My name is Pavel, I'm a Full Stack Developer. Currently I'm working at Clever Programmer while also coaching ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "sazonov.ps@pm.me",
+    "phone": "+52 12 345 6789",
     "address": {
       "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "city": "Cancún",
+      "state": "QROO",
+      "zip": "98765"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/pavlks",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/sazonovps/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/pavlks/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/pavlks",
         "className": "fa fa-github"
       }
     ]
@@ -66,60 +66,60 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "10%"
       },
       {
         "name": "CSS",
-        "level": "95%"
+        "level": "80%"
       },
       {
         "name": "Git",
-        "level": "60%"
+        "level": "85%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": "Python 3",
+        "level": "75%"
       },
       {
         "name": "HTML5",
         "level": "80%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "SQL",
+        "level": "70%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
+        "title": "HTML5 CSS3 Boostrap Website",
         "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
+        "image": "project-bootstrap.png",
         "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
       },
       {
-        "title": "MERN Stack TikTok Clone",
+        "title": "Telegram Chat Bot",
         "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
+        "image": "project-tgbot.png",
         "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
       },
       {
-        "title": "Facebook Clone with React",
+        "title": "First ReactJs App",
         "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
+        "image": "project-reactjs.png",
         "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
       },
       {
-        "title": "Airbnb Clone",
+        "title": "Filemaker Database",
         "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
+        "image": "project-filemaker.png",
         "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
       },
       {
-        "title": "Netflix Clone",
+        "title": "Python Django Website",
         "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
+        "image": "project-django.png",
         "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
       }
     ]
